@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\logs\\enrollment-log-20250531.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\logs\\enrollment-log-20250531.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\data\\appdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\logs\\log-20250531.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\logs\\log-20250531.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\dtos\\updateenrollmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\dtos\\updateenrollmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|c:\\users\\alex\\source\\practicas\\enrollmentmanagement\\enrollmentmanagement\\profiles\\enrollmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02383D16-0CC9-4AE8-B98E-5EC1641E8A30}|EnrollmentManagement\\EnrollmentManagement.csproj|solutionrelative:enrollmentmanagement\\profiles\\enrollmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log-20250531.txt",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\logs\\log-20250531.txt",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\logs\\log-20250531.txt",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\logs\\log-20250531.txt",
+              "RelativeToolTip": "EnrollmentManagement\\logs\\log-20250531.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-31T06:49:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:47:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T06:35:35.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enrollment-log-20250531.txt",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\logs\\enrollment-log-20250531.txt",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\logs\\enrollment-log-20250531.txt",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\logs\\enrollment-log-20250531.txt",
+              "RelativeToolTip": "EnrollmentManagement\\logs\\enrollment-log-20250531.txt",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-31T06:30:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Program.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:50:40.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnrollmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Dtos\\EnrollmentDto.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Dtos\\EnrollmentDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Dtos\\EnrollmentDto.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Dtos\\EnrollmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:49:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Data\\AppDbContext .cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Data\\AppDbContext .cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Data\\AppDbContext .cs",
+              "RelativeToolTip": "EnrollmentManagement\\Data\\AppDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:49:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\appsettings.json",
+              "RelativeToolTip": "EnrollmentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T04:51:01.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:37:52.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateEnrollmentStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Dtos\\UpdateEnrollmentStatusDto.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Dtos\\UpdateEnrollmentStatusDto.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Dtos\\UpdateEnrollmentStatusDto.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Dtos\\UpdateEnrollmentStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T05:04:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Enrollment.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:48:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Course.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:48:38.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:48:03.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnrollmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Profiles\\EnrollmentProfile.cs",
+              "RelativeDocumentMoniker": "EnrollmentManagement\\Profiles\\EnrollmentProfile.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\practicas\\EnrollmentManagement\\EnrollmentManagement\\Profiles\\EnrollmentProfile.cs",
+              "RelativeToolTip": "EnrollmentManagement\\Profiles\\EnrollmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:49:53.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
