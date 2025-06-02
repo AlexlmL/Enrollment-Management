@@ -1,6 +1,17 @@
 # Enrollment-Management
 Caso práctico resuelto
 
+
+### Tecnologías usadas en este proyecto
+
+- ASP.NET Core Web API .NET 8
+
+- Entity Framework Core
+
+- SQL Server 2022
+
+- Swagger Documentation
+
 ### Instrucciones para probar funcionamiento
 
 - Insertar data mediante un query en sql server. Ejemplo:
